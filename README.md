@@ -14,7 +14,7 @@ Election-Audit Results
  -    Arapahoe County accounted for 6.7% of the total vote with 24,801 votes
  - Denver County had the largest number of votes
  
-   Candidate Breakdown
+ Candidate Breakdown
  -    Charles Casper Stockham recieved 23.0% of the total vote with 85,213 votes
  -    Diana DeGette recieved 73.8% of the total vote with 272,892 votes
  -    Raymon Anthony Doane recieved 3.1% of the total vote with 11,606 votes
